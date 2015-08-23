@@ -1,7 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
 
-## Write a short comment describing this function
 ##The function, makeCacheMatrix creates a special list. 
 ## This list contains functions to
 ##  a. get the value of the matrix
